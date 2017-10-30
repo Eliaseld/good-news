@@ -4,27 +4,12 @@
 
   require __DIR__.'/data.php';
 
-/*
-  Global variables not global?
-  Calling a function with a global variable within another function
-  gives an exception.
-  example:
-
-  $global = 3;
-
-  function caller(){
-    printToScreen(global);
-}
-
-  function printToScreen($value){
-    echo $value;
-}
-
-  useless function (even if it worked).
-  This does not work, why?
-*/
+  // This function will create a new news item on the
+  // site for each array element.
+  // The function will create html elements and load values from the array it
+  // takes as an argument.
+  // (footer is ugly :< )
   function loadContent($array){
-      //echo $array[0]['title'];
 
       foreach ($array as $index) {
         echo '<div class="container">
