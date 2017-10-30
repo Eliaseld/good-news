@@ -1,0 +1,27 @@
+body {
+  background-color: #F8E0DE;
+}
+
+.container {
+  background-color: #F4D0CF;
+  width: 60%;
+  margin: auto;
+  text-align: center;
+}
+
+.header {
+  background-color: #F1C6C5;
+}
+
+.content {
+  background-color: #F1C6C5;
+}
+
+.text {
+  margin: 50px;
+}
+
+.footer {
+  background-color: #F1C6C5;
+  font-style: italic;
+}
