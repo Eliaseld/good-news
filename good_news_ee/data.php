@@ -12,7 +12,7 @@ declare(strict_types=1);
 $articles = [
 
   [
-    'title' => 'Kaninerna har tagit över.',
+    'title' => 'Redaktionen lägger ner',
     'content' => 'Lorem Ipsum är en utfyllnadstext från tryck- och
       förlagsindustrin. Lorem ipsum har varit standard ända sedan 1500-talet,
       när en okänd boksättare tog att antal bokstäver och blandade dem för att
@@ -21,13 +21,13 @@ $articles = [
       förändringar. Det blev allmänt känt på 1960-talet i samband med
       lanseringen av Letraset-ark med avsnitt av Lorem Ipsum, och senare med
       mjukvaror som Aldus PageMaker.',
-    'author' => 'Jan Jansson',
-    'published' => '3 februari 2014',
-    'likes' => -2
+    'author' => 'Evert',
+    'published' => '18-maj-2015',
+    'likes' => 999999999
   ],
 
   [
-    'title' => 'Kaninerna måste bort.',
+    'title' => 'Ångrar mig bittert',
     'content' => 'I motsättning till vad många tror, är inte Lorem Ipsum
       slumpvisa ord. Det har sina rötter i ett stycke klassiskt litteratur på
       latin från 45 år före år 0, och är alltså över 2000 år gammalt. Richard
@@ -44,13 +44,13 @@ $articles = [
       för de intresserade. Styckena 1.10.32 och 1.10.33 från "de Finibus
       Bonorum et Malorum" av Cicero hittar du också i deras originala form,
       åtföljda av de engelska översättningarna av H. Rackham från 1914.',
-    'author' => 'Jan Jansson',
-    'published' => '4 febrari 2014',
+    'author' => 'Stina Sten',
+    'published' => '17-maj-2015',
     'likes' => 45
   ],
 
   [
-    'title' => 'Test3',
+    'title' => 'Världens bästa redaktion',
     'content' => 'Det är ett välkänt faktum att läsare distraheras av läsbar
       text på en sida när man skall studera layouten. Poängen med Lorem Ipsum är
       att det ger ett normalt ordflöde, till skillnad från "Text här, Text här",
@@ -59,13 +59,13 @@ $articles = [
       "Lorem Ipsum" avslöjar många webbsidor under uteckling. Olika versioner
       har dykt upp under åren, ibland av olyckshändelse, ibland med flit
       (mer eller mindre humoristiska).',
-    'author' => 'Jan Jansson',
-    'published' => '3-2-14',
-    'likes' => 7
+    'author' => 'Stina Sten',
+    'published' => '16-maj-2015',
+    'likes' => 34
   ],
 
   [
-    'title' => 'Test3',
+    'title' => 'Stina Sten ansluter sig till redaktionen',
     'content' => 'Det finns många olika varianter av Lorem Ipsum,
       men majoriteten av dessa har ändrats på någotvis. Antingen med inslag av
       humor, eller med inlägg av ord som knappast ser trovärdiga ut. Skall man
@@ -77,8 +77,8 @@ $articles = [
       meningsbyggnadsstrukturer som tillsamman genererar Lorem Ipsum som ser ut
       som en normal mening. Lorem Ipsum genererad på denna sidan är därför alltid
       fri från repetitioner, humorinslag, märkliga ordformationer osv.',
-    'author' => 'Jan Jansson',
-    'published' => '3-2-14',
+    'author' => 'Evert',
+    'published' => '3-apr-2015',
     'likes' => 7
   ],
 
@@ -93,7 +93,7 @@ $articles = [
       lanseringen av Letraset-ark med avsnitt av Lorem Ipsum, och senare med
       mjukvaror som Aldus PageMaker.',
     'author' => 'Per Persson',
-    'published' => '31-aug-2014',
+    'published' => '5-feb-2015',
     'likes' => 55
   ],
 
