@@ -1,6 +1,6 @@
 <?php
 
-  declare(strict_types=1);
+	declare(strict_types=1);
 
   // The data used by the website.
   // The website does not give any notice as to where the data
