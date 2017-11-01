@@ -21,7 +21,9 @@
         förändringar. Det blev allmänt känt på 1960-talet i samband med
         lanseringen av Letraset-ark med avsnitt av Lorem Ipsum, och senare med
         mjukvaror som Aldus PageMaker.',
-      'author' => 'Evert',
+      'author' => [
+				'id' => 3,
+				'name' => 'Evert Taube'],
       'published' => '18-maj-2015',
       'likes' => 999999999
     ],
@@ -44,7 +46,9 @@
         för de intresserade. Styckena 1.10.32 och 1.10.33 från "de Finibus
         Bonorum et Malorum" av Cicero hittar du också i deras originala form,
         åtföljda av de engelska översättningarna av H. Rackham från 1914.',
-      'author' => 'Stina Sten',
+      'author' => [
+				'id' => 4,
+				'name' => 'Stina Sten'],
       'published' => '17-maj-2015',
       'likes' => 45
     ],
@@ -59,7 +63,9 @@
         "Lorem Ipsum" avslöjar många webbsidor under uteckling. Olika versioner
         har dykt upp under åren, ibland av olyckshändelse, ibland med flit
         (mer eller mindre humoristiska).',
-      'author' => 'Stina Sten',
+      'author' => [
+				'id' => 4,
+				'name' => 'Stina Sten'],
       'published' => '16-maj-2015',
       'likes' => 34
     ],
@@ -77,7 +83,9 @@
         meningsbyggnadsstrukturer som tillsamman genererar Lorem Ipsum som ser ut
         som en normal mening. Lorem Ipsum genererad på denna sidan är därför alltid
         fri från repetitioner, humorinslag, märkliga ordformationer osv.',
-      'author' => 'Evert',
+      'author' => [
+				'id' => 3,
+				'name' => 'Evert Taube'],
       'published' => '3-apr-2015',
       'likes' => 7
     ],
@@ -92,7 +100,9 @@
         förändringar. Det blev allmänt känt på 1960-talet i samband med
         lanseringen av Letraset-ark med avsnitt av Lorem Ipsum, och senare med
         mjukvaror som Aldus PageMaker.',
-      'author' => 'Per Persson',
+      'author' => [
+				'id' => 1,
+				'name' => 'Per Persson'],
       'published' => '5-feb-2015',
       'likes' => 55
     ],
@@ -115,7 +125,9 @@
         för de intresserade. Styckena 1.10.32 och 1.10.33 från "de Finibus
         Bonorum et Malorum" av Cicero hittar du också i deras originala form,
         åtföljda av de engelska översättningarna av H. Rackham från 1914.',
-      'author' => 'Annika Feqvist',
+      'author' => [
+				'id' => 2,
+				'name' => 'Annika Feqvist'],
       'published' => '6-jun-2014',
       'likes' => 1337
     ],
@@ -133,7 +145,9 @@
         meningsbyggnadsstrukturer som tillsamman genererar Lorem Ipsum som ser ut
         som en normal mening. Lorem Ipsum genererad på denna sidan är därför alltid
         fri från repetitioner, humorinslag, märkliga ordformationer osv.',
-      'author' => 'Annika Feqvist',
+      'author' => [
+				'id' => 2,
+				'name' => 'Annika Feqvist'],
       'published' => '23-maj-2014',
       'likes' => 2
     ],
@@ -148,7 +162,9 @@
         "Lorem Ipsum" avslöjar många webbsidor under uteckling. Olika versioner
         har dykt upp under åren, ibland av olyckshändelse, ibland med flit
         (mer eller mindre humoristiska).',
-      'author' => 'Per Persson',
+      'author' => [
+				'id' => 1,
+				'name' => 'Per Persson'],
       'published' => '5-feb-2014',
       'likes' => -3
     ],
@@ -163,7 +179,9 @@
         förändringar. Det blev allmänt känt på 1960-talet i samband med
         lanseringen av Letraset-ark med avsnitt av Lorem Ipsum, och senare med
         mjukvaror som Aldus PageMaker.',
-      'author' => 'Jan Jansson',
+      'author' => [
+				'id' => 0,
+				'name' => 'Jan Jansson'],
       'published' => '4-feb-2014',
       'likes' => 42
     ],
@@ -186,7 +204,9 @@
         för de intresserade. Styckena 1.10.32 och 1.10.33 från "de Finibus
         Bonorum et Malorum" av Cicero hittar du också i deras originala form,
         åtföljda av de engelska översättningarna av H. Rackham från 1914.',
-      'author' => 'Jan Jansson',
+      'author' => [
+				'id' => 0,
+				'name' => 'Jan Jansson'],
       'published' => '3-feb-2014',
       'likes' => -2
     ]
