@@ -1,0 +1,6 @@
+root = true
+
+# Tab indentation + Default charset
+[*]
+indent_style = tab
+charset = utf-8
